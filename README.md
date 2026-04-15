@@ -44,7 +44,7 @@
 
 ##  Hardware Photos
 ![Photo 1](https://github.com/Emran-web-hub/IoT-Water-Level-Monitoring/blob/main/Images.ino/water_level_Monitor_%20jpg_%201.jpeg)
-![Photo 2](images/hardware_photo2.jpg)
+![Photo 2](https://github.com/Emran-web-hub/IoT-Water-Level-Monitoring/blob/main/Images.ino/water_level_Monitor_%20jpg_%202.jpeg)
 
 ### Code
 The complete Arduino code is available in [water_level_monitor.ino]([water_level_monitor.in](https://github.com/Emran-web-hub/IoT-Water-Level-Monitoring/blob/main/Code/water_level_monitor.ino)
