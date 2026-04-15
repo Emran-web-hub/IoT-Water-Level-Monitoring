@@ -43,7 +43,7 @@
 5. Open app and see live water level
 
 ##  Hardware Photos
-![Photo 1](images/hardware_photo1.jpg)
+![Photo 1](https://github.com/Emran-web-hub/IoT-Water-Level-Monitoring/blob/main/Images.ino/water_level_Monitor_%20jpg_%201.jpeg)
 ![Photo 2](images/hardware_photo2.jpg)
 
 ### Code
