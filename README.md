@@ -1,2 +1,52 @@
 # IoT-Water-Level-Monitoring
-This project is an IoT-based water level monitoring system designed to measure and monitor water levels in tanks in real time. It uses sensors and a microcontroller to collect data and transmit it to a display or cloud platform. The system helps prevent water overflow and ensures efficient water management.
+# IoT Water Level Monitoring System using ESP8266 + Blynk
+## Objectives
+- Monitor water level in real-time
+- Prevent overflow and dry conditions
+- Enable remote monitoring via internet
+- Send alerts/notifications
+- Technologies Used
+- Arduino / ESP8266 / ESP32
+- Ultrasonic Sensor (HC-SR04)
+- Wi-Fi Module
+- MQTT / HTTP Protocol
+- Cloud Platform (ThingSpeak / Blynk / Firebase)
+- Embedded C / Arduino IDE
+
+## Features
+- 5 water levels (0% → 20% → 40% → 60% → 80% → 100%)
+- Real-time gauge in Blynk mobile app
+- Notifications for low or full water (optional)
+- Uses your existing breadboard, LEDs and probes
+- WiFi connected
+
+##  Components
+- ESP8266 NodeMCU
+- 5 conductive probes (your existing wires in the cup)
+- 5 green LEDs + resistors (already on breadboard)
+- Jumper wires
+
+## Wiring 
+- NodeMCU 5V (VU pin) → Breadboard + rail
+- NodeMCU GND → Breadboard - rail
+- Probe 1 (lowest) → D1
+- Probe 2 → D2
+- Probe 3 → D5
+- Probe 4 → D6
+- Probe 5 (highest) → D7
+
+##  How to Use
+1. Install Blynk IoT app on mobile
+2. Create new project → Add Gauge widget on V0
+3. Copy Auth Token
+4. Upload code
+5. Open app and see live water level
+
+##  Hardware Photos
+![Photo 1](images/hardware_photo1.jpg)
+![Photo 2](images/hardware_photo2.jpg)
+
+##  Circuit Diagram
+
+
+## Author Muhhamad Emran
