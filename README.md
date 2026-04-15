@@ -1,5 +1,5 @@
 # IoT-Water-Level-Monitoring
-# IoT Water Level Monitoring System using ESP8266 + Blynk
+
 ## Objectives
 - Monitor water level in real-time
 - Prevent overflow and dry conditions
