@@ -23,7 +23,7 @@
 ##  Components
 - ESP8266 NodeMCU
 - 5 conductive probes (your existing wires in the cup)
-- 5 green LEDs + resistors (already on breadboard)
+- 5 green LEDs + resistors
 - Jumper wires
 
 ## Wiring 
@@ -49,4 +49,5 @@
 ##  Circuit Diagram
 
 
-## Author Muhhamad Emran
+## Author  
+ Muhhamad Emran
