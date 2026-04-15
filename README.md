@@ -47,7 +47,7 @@
 ![Photo 2](images/hardware_photo2.jpg)
 
 ### Code
-The complete Arduino code is available in [water_level_monitor.ino](water_level_monitor.ino)
+The complete Arduino code is available in [water_level_monitor.ino]([water_level_monitor.in](https://github.com/Emran-web-hub/IoT-Water-Level-Monitoring/blob/main/Code/water_level_monitor.ino)
 
 ##  Circuit Diagram
 
