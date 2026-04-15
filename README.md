@@ -46,6 +46,9 @@
 ![Photo 1](images/hardware_photo1.jpg)
 ![Photo 2](images/hardware_photo2.jpg)
 
+### Code
+The complete Arduino code is available in [)
+
 ##  Circuit Diagram
 
 
